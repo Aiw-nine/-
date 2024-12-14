@@ -10,7 +10,7 @@
 
 ## **赔钱机场**
 
-官网链接：https://pqjc.site/#/login
+官网链接：https://pqjc.site/#/register?code=mkgX1qNg
 
 月付套餐：`1.5元/100G`、2.99元/500G、5.99元/1000G
 
